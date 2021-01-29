@@ -13,4 +13,4 @@ The idea was to use it with my home automation, when the door is opened or motio
 
 ## Inspirations and Reference
    * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
-   * [denverdino/face_recognition_pi]([https://github.com/denverdino/face_recognition_pi)
+   * [denverdino/face_recognition_pi](https://github.com/denverdino/face_recognition_pi)
