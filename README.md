@@ -12,5 +12,5 @@ The idea was to use it with my home automation, when the door is opened or motio
     * Dockerize the solution. I tried to do it, but building and running was taking ages. 
 
 ## Inspirations and Reference
-[https://github.com/ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
-[https://github.com/denverdino/face_recognition_pi](https://github.com/denverdino/face_recognition_pi)
+   *[https://github.com/ageitgey/face_recognition](ageitgey/face_recognition)
+   *[https://github.com/denverdino/face_recognition_pi](denverdino/face_recognition_pi)
